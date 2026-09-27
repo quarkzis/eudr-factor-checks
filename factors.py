@@ -6,7 +6,7 @@ S1_FACTORS = {
     "Downstream operator (non-SME)": 0.75,
     "Downstream operator (SME)": 0.50,
     "Trader (non-SME)": 0.75,
-    "Trader (SME)": 0.25,
+    "Trader (SME)": 0.40,
 }
 
 
