@@ -1,0 +1,2 @@
+# Dependencies for generating the sample cost reports
+PyYAML==5.3.1
