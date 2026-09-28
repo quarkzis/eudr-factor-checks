@@ -11,3 +11,7 @@ python -m unittest -v
 ## Sample report
 
 `reports/sample-cost-summary.csv` is a synthetic cost summary that CI saves as a build artifact.
+
+## Test data
+
+All values in `reports/` and in the unit tests are synthetic and for illustration only.
