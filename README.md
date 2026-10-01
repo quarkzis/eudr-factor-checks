@@ -14,3 +14,6 @@ python -m unittest -v
 
 ## Maintainers
 Maintained by the EUDR compliance team.
+
+## Test data
+All values in `reports/` and in the unit tests are synthetic and for illustration only.
