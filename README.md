@@ -11,3 +11,6 @@ python -m unittest -v
 ## Sample report
 
 `reports/sample-cost-summary.csv` is a synthetic cost summary that CI saves as a build artifact.
+
+## Maintainers
+Maintained by the EUDR compliance team.
